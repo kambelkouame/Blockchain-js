@@ -1,0 +1,5 @@
+applications:
+  - name: Blockchain-js
+    random-route: true
+    buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+    memory: 254M
